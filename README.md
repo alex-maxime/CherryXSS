@@ -11,9 +11,9 @@ Every level is accompanied with a tutorial.
 
 Levels and walkthroughs are ordered as the following:
 
-**Levels: /level/[0-9]/**
+**Levels: /level[0-9]/**
 
-**Walkthroughs: /level/[0-9]/walkthrough**
+**Walkthroughs: /walkthrough[0-9]**
 
 I hope you have as much fun as I did making this.
 For now, I hope for 10 levels. If anyone wants to make their own, feel free to.
