@@ -18,6 +18,12 @@ Levels and walkthroughs are ordered as the following:
 I hope you have as much fun as I did making this.
 For now, I hope for 10 levels. If anyone wants to make their own, feel free to.
 
+Requirements
+-----------
+
+CherryPy 3.x: http://www.cherrypy.org
+Python 2.7: http://python.org/getit
+
 Contact
 -------
 
